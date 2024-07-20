@@ -1,0 +1,33 @@
+body {
+	font-family: "Roboto","Noto Sans TC", sans-serif;
+	line-height: 1.5;
+}
+
+.fw-bold {
+	font-weight: bold;
+}
+
+.fw-medium {
+	font-weight: 500;
+}
+
+.text-align-c{
+	text-align: center;
+}
+
+.text-align-l{
+	text-align: left;
+}
+
+a {
+	text-decoration: none;
+}
+
+:root {
+	--primary: #650300;
+	--text-color: #aa0601;
+  }
+
+.primary-color{
+	color: var(--primary);
+}
