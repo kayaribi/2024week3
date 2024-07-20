@@ -510,6 +510,7 @@ a {
 }
 
 .contact a {
+  display: inline-block;
   padding: 16px 176px;
   background-color: #AA0601;
   color: #FFFFFF;
@@ -535,6 +536,9 @@ a {
   }
   .check {
     margin-bottom: 24px;
+  }
+  .contact a {
+    padding: 16px 142px;
   }
 }
 .footer {
