@@ -360,6 +360,8 @@
 	margin-bottom: 0px;
 }
 
+
+
 @media (max-width: 576px) {
 	.endorsement {
 		padding-top: 40px;
@@ -459,9 +461,31 @@
 	background-color: #650300;
 }
 
+@media (max-width: 768px) {
+	.container-md {
+		padding: 0 36px;
+	}
+
+	.endorsement-cards-content{
+		margin-bottom: 24px;
+	}
+
+	.endorsement{
+		padding-bottom: 56px;
+	}
+
+	.col-md-6{
+		width: 50%;
+	}
+}
+
 @media (max-width: 576px) {
 	.contact-container-sm {
 		padding: 0 14px;
+	}
+	
+	.col-sm-12{
+		width: 100%;
 	}
 
 	.contact {
