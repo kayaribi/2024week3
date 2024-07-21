@@ -711,6 +711,14 @@ a {
     font-size: 16px;
   }
 }
+@media (max-width: 576px) {
+  .statement-container {
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 16px;
+    padding-bottom: 24px;
+  }
+}
 @media (max-width: 768px) {
   .container-md {
     padding: 0 36px;
