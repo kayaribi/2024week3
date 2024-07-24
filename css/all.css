@@ -420,7 +420,7 @@ a {
   margin-bottom: 48px;
 }
 
-.customer .date {
+.customer time {
   font-size: 14px;
   color: #707070;
   margin-bottom: 0px;
@@ -495,6 +495,8 @@ a {
   padding-top: 6px;
   padding-bottom: 6px;
   padding-left: 12px;
+  background-color: transparent;
+  border: 1px solid #000000;
 }
 
 .tel input {
