@@ -140,7 +140,7 @@ a {
   text-decoration: underline;
 }
 
-@media (max-width: 643px) {
+@media (max-width: 660px) {
   .nav .container {
     flex-direction: column;
     align-items: normal;
